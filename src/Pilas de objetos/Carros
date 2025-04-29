@@ -1,0 +1,41 @@
+public class Carros {
+
+    private double livianos;
+    private double medianos;
+    private double pesados;
+
+    public Carros (double livianos, double medianos, double pesados) 
+    
+    {
+    
+    livianos = 400;
+    medianos = 280.000;
+    pesados = 380.000;
+    
+    public double getLivianos ()
+    
+    return livianos;
+    {
+     
+    public void setLivianos(double livianos)
+    {
+        livianos = livianos;
+    }
+    }
+    public double getMedianos
+    {
+       return medianos;
+    }
+    public void setMedianos(double medianos) 
+    {
+        medianos = medianos;
+    }
+    public double 
+    }
+
+ 
+    public static void main (String[] args) {
+
+    
+    }
+}
