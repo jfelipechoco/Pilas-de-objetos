@@ -3,7 +3,17 @@ public class Camiones {
    private double livianos;
    private double medianos;
    private double pesados;
+   
 
-   public class Camiones () 
+   public Camiones (double livianos, double medianos, double pesados) {
 
+   livianos = 400.000 ;
+   medianos = 280.000;
+   pesados = 380.000;
+
+   public double getLivianos ()
+   {
+    return livianos;
+   }
+   }
 }
