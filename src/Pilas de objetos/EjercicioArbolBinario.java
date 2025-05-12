@@ -1,4 +1,4 @@
-public class BinaryTreeExercise {
+public class EjercicioArbolBinario {
     // Clase interna para representar un nodo del árbol
     static class TreeNode {
         int value;

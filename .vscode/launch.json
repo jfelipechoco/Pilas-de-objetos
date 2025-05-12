@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EjercicioArbolBinario",
+            "request": "launch",
+            "mainClass": "EjercicioArbolBinario",
+            "projectName": "Pilas-de-objetos_11dc8ac8"
+        },
+        {
+            "type": "java",
             "name": "BinaryTreeExercise",
             "request": "launch",
             "mainClass": "BinaryTreeExercise",
